@@ -1,12 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: tonchik™
- * Date: 16.09.2015
- * Time: 13:00
- */
 
-namespace TonchikTm\PdfToHtml;
+namespace Jonston\PdfToHtml;
 
 /**
  * This is base class with common properties and methods.

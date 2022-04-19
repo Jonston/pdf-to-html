@@ -6,7 +6,7 @@
  * Time: 19:18
  */
 
-namespace TonchikTm\PdfToHtml;
+namespace Jonston\PdfToHtml;
 
 use DOMDocument;
 use DOMXPath;

@@ -6,7 +6,7 @@
  * Time: 12:52
  */
 
-namespace TonchikTm\PdfToHtml;
+namespace Jonston\PdfToHtml;
 
 /**
  * This class creates a collection of html pages with some improvements.
