@@ -22,7 +22,7 @@ Or add this package to your `composer.json`
 
 ```json
 {
-  "tonchik-tm/pdf-to-html":"~1"
+  "jonston/pdf-to-html":"~1"
 }
 ```
 
@@ -81,7 +81,7 @@ Go in extracted directory. There will be a directory called `bin`. We will need 
 include 'vendor/autoload.php';
 
 // initiate
-$pdf = new \TonchikTm\PdfToHtml\Pdf('test.pdf', [
+$pdf = new \Jonston\PdfToHtml\Pdf('test.pdf', [
     'pdftohtml_path' => '/usr/bin/pdftohtml',
     'pdfinfo_path' => '/usr/bin/pdfinfo'
 ]);
