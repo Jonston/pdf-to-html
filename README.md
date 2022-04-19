@@ -22,7 +22,7 @@ Or add this package to your `composer.json`
 
 ```json
 {
-  "jonston/pdf-to-html":"~1"
+  "jonston/pdf-to-html":"dev-main"
 }
 ```
 
